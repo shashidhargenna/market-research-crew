@@ -1,0 +1,27 @@
+# Multi-Agent Framework
+crewai
+crewai-tools
+
+# LLM Provider
+openai
+
+# Data Processing
+pandas
+numpy
+tabulate
+
+# Web Research and Scraping
+tavily-python
+requests
+beautifulsoup4
+
+# PDF Generation
+reportlab
+
+# Environment Configuration
+python-dotenv
+
+# Testing
+pytest
+
+pip install reportlab
